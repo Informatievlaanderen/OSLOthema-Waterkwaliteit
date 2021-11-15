@@ -10,8 +10,18 @@
     "specificatiedocument": [],
     "documentatie": [],
     "charter": [],
-    "verslagen": [],
-    "presentaties": [],
+    "verslagen": [
+        {
+            "naam": "Verslag Business werkgroep - 9 november 2021",
+            "waarde": "Verslag Business werkgroep - 9 november 2021.docx"
+        }
+    ],
+    "presentaties": [
+        {
+            "naam": "Presentatie Business werkgroep  - 9 november 2021",
+            "waarde": "Presentatie Business werkgroep - 9 november 2021.pdf"
+        }
+    ],
     "functioneel_toepassingsgebied": "TBD",
     "organisatorisch_werkingsgebied": "TBD",
     "datum_van_aanmelding": "TBD",
