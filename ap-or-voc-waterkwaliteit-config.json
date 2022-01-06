@@ -1,8 +1,8 @@
 {
     "naam": "Vocabularium en applicatieprofiel OSLO Waterkwaliteit",
     "rapport": "",
-    "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
-    "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+    "verantwoordelijke_organisatie": "Vlaamse Milieumaatschappij (VMM)",
+    "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000092",
     "publicatiedatum": "TBD",
     "type_toepassing": "Aanbevolen (vrijwillig)",
     "categorie": "Vocabularium en applicatieprofielen",
@@ -14,12 +14,20 @@
         {
             "naam": "Verslag Business werkgroep - 9 november 2021",
             "waarde": "Verslag Business werkgroep - 9 november 2021.docx"
+        },
+        {
+            "naam": "Verslag thematische werkgroep 1 - 9 december 2021",
+            "waarde": "Verslag Business werkgroep - 9 november 2021.docx"
         }
     ],
     "presentaties": [
         {
             "naam": "Presentatie Business werkgroep  - 9 november 2021",
             "waarde": "Presentatie Business werkgroep - 9 november 2021.pdf"
+        },
+        {
+            "naam": "Presentatie thematische werkgroep 1 - 9 december 2021",
+            "waarde": "Verslag Thematische werkgroep 1 - 9 december 2021.docx"
         }
     ],
     "functioneel_toepassingsgebied": "TBD",
