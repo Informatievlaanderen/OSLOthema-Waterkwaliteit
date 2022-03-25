@@ -10,27 +10,27 @@
     "specificatiedocument": [
         {
             "naam": "Applicatieprofiel Waterkwaliteit",
-            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit/ontwerpstandaard/2022-01-26"
+            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit/ontwerpstandaard/2022-03-15"
         },
         {
             "naam": "Applicatieprofiel Statistiek",
-            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/statistiek/ontwerpstandaard/2022-01-26"
+            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/statistiek/ontwerpstandaard/2022-03-15"
         },
         {
             "naam": "Applicatieprofiel Datakwaliteit",
-            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/ontwerpstandaard/2022-01-26"
+            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/ontwerpstandaard/2022-03-15"
         },
         {
             "naam": "Vocabularium Waterkwaliteit",
-            "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/waterkwaliteit/ontwerpstandaard/2022-01-26"
+            "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/waterkwaliteit/ontwerpstandaard/2022-03-15"
         },
         {
             "naam": "Vocabularium Statistiek",
-            "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/statistiek/ontwerpstandaard/2022-01-26"
+            "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/statistiek/ontwerpstandaard/2022-03-15"
         },
         {
             "naam": "Vocabularium Datakwaliteit",
-            "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/datakwaliteit/ontwerpstandaard/2022-01-26"
+            "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/datakwaliteit/ontwerpstandaard/2022-03-15"
         }
     ],
     "documentatie": [],
