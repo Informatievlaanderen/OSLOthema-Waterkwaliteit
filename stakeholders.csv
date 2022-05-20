@@ -1,4 +1,21 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+﻿Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
+Maxime;Pittomvils;Digitaal Vlaanderen;maxime.pittomvils@vlaanderen.be;;E
+Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;;E
+Dirk;De Smet;Digitaal Vlaanderen;dirk.de.smet@vlaanderen.be;;E
+Arne;Van Der Stuyft;Digitaal Vlaanderen;arnevanderstuyft@vlaanderen.be;;E
+Laurens;Vercauteren;Digitaal Vlaanderen;laurens.vercauteren@vlaanderen.be;;A
+Frank;Lavens;Vlaamse Milieumaatschappij;f.lavens@vmm.be;;A
+Pieter;Borremans;Vlaamse Milieumaatschappij;p.borremans@vmm.be;;A
+Greet;Devriese;Vlaamse Milieumaatschappij;g.devriese@vmm.be;;A
+Jurgen;Meirlaen;Vlaamse Milieumaatschappij;j.meirlaen@vmm.be;;A
+Dirk;Goossens;Vlaamse Milieumaatschappij;d.goossens@vmm.be;;C
+Pieter;De Graef;Vlaamse Milieumaatschappij;p.degraef@vmm.be;;C
+Jonas;Rooman;Vlaamse Milieumaatschappij;j.rooman@vmm.be;;C
+Tom ;Boonen;Departement Omgeving;tom.boonen@vlaanderen.be;;C
+Geert;Van Haute;Departement Omgeving;geert.vanhaute@vlaanderen.be;;C
+Annelies;Baert;Departement Omgeving;annelies.baert@vlaanderen.be;;C
+Jos;Tits;Departement Omgeving;jos.tits@vlaanderen.be;;C
+Steven;Geirnaert;Departement Omgeving;steven.geirnaert@vlaanderen.be;;C
+Donald;Vergauwe;Provincie Antwerpen;donald.vergauwe@provincieantwerpen.be;;C
+Frank;Sleeuwaert;Vlaamse Instelling voor Technologisch Onderzoek;frank.sleeuwaert@vito.be;;C
+Guy;Dillen;De Watergroep;guy.dillen@dewatergroep.be;;C
