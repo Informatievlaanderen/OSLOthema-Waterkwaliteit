@@ -10,31 +10,41 @@
     "specificatiedocument": [
         {
             "naam": "Applicatieprofiel Waterkwaliteit",
-            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit"
+            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit"
         },
         {
             "naam": "Applicatieprofiel Statistiek",
-            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/statistiek"
+            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/statistiek"
         },
         {
             "naam": "Applicatieprofiel Datakwaliteit",
-            "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit"
+            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit"
         },
         {
             "naam": "Vocabularium Waterkwaliteit",
-            "waarde": "https://test.data.vlaanderen.be/ns/waterkwaliteit"
+            "waarde": "https://data.vlaanderen.be/ns/waterkwaliteit"
         },
         {
             "naam": "Vocabularium Statistiek",
-            "waarde": "https://test.data.vlaanderen.be/ns/statistiek"
+            "waarde": "https://data.vlaanderen.be/ns/statistiek"
         },
         {
             "naam": "Vocabularium Datakwaliteit",
-            "waarde": "https://test.data.vlaanderen.be/ns/datakwaliteit"
+            "waarde": "https://data.vlaanderen.be/ns/datakwaliteit"
         }
     ],
-    "documentatie": [],
-    "charter": [],
+    "documentatie": [
+        {
+            "naam": "OSLO Omgeving - codelijsten - Technische documentatie",
+            "waarde": "OSLO Omgeving - codelijsten - Technische documentatie.pdf"
+        }
+    ],
+    "charter": [
+        {
+            "naam": "OSLO Omgeving - codelijsten - Technische documentatie",
+            "waarde": "OSLO Omgeving - codelijsten - Technische documentatie.pdf"
+        }
+    ],
     "verslagen": [
         {
             "naam": "Verslag Business werkgroep - 9 november 2021",
@@ -47,6 +57,14 @@
         {
             "naam": "Verslag thematische werkgroep 2 - 1 februari 2022",
             "waarde": "Verslag thematische werkgroep 2 - 1 februari 2022.docx"
+        },
+        {
+            "naam": "OSLO Omgeving_ codelijsten - Verslag thematische werkgroep 1 - 22 juni 2022",
+            "waarde": "OSLO Omgeving_ codelijsten - Verslag thematische werkgroep 1 - 22 juni 2022.docx"
+        },
+        {
+            "naam": "OSLO Omgeving_ codelijsten - Verslag thematische werkgroep 2 - 14 juli 2022",
+            "waarde": "OSLO Omgeving_ codelijsten - Verslag thematische werkgroep 2 - 14 juli 2022.docx"
         }
     ],
     "presentaties": [
@@ -61,11 +79,19 @@
         {
             "naam": "Presentatie thematische werkgroep 2 - 1 februari 2022",
             "waarde": "Presentatie thematische werkgroep 2 - 1 februari 2022.pdf"
+        },
+        {
+            "naam": "OSLO Omgeving_codelijsten - Presentatie thematische werkgroep 1 - 22 juni 2022",
+            "waarde": "OSLO Omgeving_codelijsten-Presentatie Thematische werkgroep 1 - 22 juni 2022.pdf"
+        },
+        {
+            "naam": "OSLO Omgeving_codelijsten - Presentatie thematische werkgroep 2 - 14 juli 2022",
+            "waarde": "OSLO Omgeving_codelijsten-Presentatie Thematische werkgroep 2 - 14 juli 2022.pdf"
         }
     ],
-    "functioneel_toepassingsgebied": "TBD",
-    "organisatorisch_werkingsgebied": "TBD",
-    "datum_van_aanmelding": "TBD",
+    "functioneel_toepassingsgebied": "Semantische standaard voor waterkwaliteit",
+    "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+    "datum_van_aanmelding": "17 oktober 2022",
     "erkenning_werkgroep_datastandaarden": "TBD",
     "erkenning_stuurgroep": "TBD"
 }
