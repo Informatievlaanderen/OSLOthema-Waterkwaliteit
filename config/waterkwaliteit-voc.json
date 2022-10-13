@@ -1,6 +1,6 @@
 [
 {
-  "name": "waterkwaliteit-voc",
+  "name": "waterkwaliteit",
   "type": "voc",
   "eap": "OSLO-Waterkwaliteit-AP.EAP",
   "diagram": "OSLO-Waterkwaliteit",
