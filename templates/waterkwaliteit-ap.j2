@@ -2,13 +2,16 @@
 
 {% block summary %}
 <p>
-Het applicatieprofiel OSLO Waterkwaliteit toont hoe begrippen uit het overeenstemmend vocabularium gebruikt moeten worden om datastromen inzake datakwaliteit semantisch te verrijken, wat data over waterkwaliteit beter vindbaar en begrijpbaar zal maken, alsook beter combineerbaar met andere databronnen. 
+Het applicatieprofiel OSLO Waterkwaliteit toont hoe begrippen uit het overeenstemmend <a href=”https://data.vlaanderen.be/ns/waterkwaliteit/”>vocabularium</a> gebruikt moeten worden om data over waterkwaliteit semantisch te verrijken zodat deze beter vindbaar en begrijpelijk wordt en beter combineerbaar met andere databronnen. 
 </p>
 <p>
-De centrale klasse in het applicatieprofiel is de klasse ‘Observatie’. Deze klasse werd overgenomen uit OSLO-ObservatiesEnMetingen en laat toe om eender welk observatietype te beschrijven. Verder werden er 6 specifieke waterkwaliteit observaties beschreven, namelijk BiotischeIndexObservatie, BioindicatorObservatie, WaterkwaliteitParameterObservatie, ChemischAgensConcentratieObservatie, HydromorfologischeObservatie en ChemischAgensVrachtObservatie. Voor de specifieke betekenis van deze klassen verwijzen we naar het applicatieprofiel en het vocabularium. 
+Observatie is de centrale klasse in het applicatieprofiel Deze klasse uit het applicatieprofiel <a href=”https://data.vlaanderen.be/doc/applicatieprofiel/observaties-en-metingen/”>OSLO Observaties & Metingen</a> (en verder aangevuld in <a href=”https://data.vlaanderen.be/doc/applicatieprofiel/sensoren-en-bemonstering/”>OSLO Sensoren & Bemonstering</a>) laat toe om eender welk type Observatie te beschrijven. Voor Waterkwaliteit werd de klasse echter verder gespecialiseerd voor Biotische Indexen, Bio-indicatoren, fysische parameters van Waterkwaliteit, concentraties en vracht van Chemische stoffen en voor Hydromorfologie.
 </p>
 <p>
-Bovendien biedt dit applicatieprofiel ook de kans om te kunnen spreken over de objecten die geobserveerd worden. Daarnaast laat het ook toe om deze object te specifiëren tot waterobjecten, bemonsteringsobjecten, ruimtelijk bemosteringsobjecten, emissies en emissiebronnen. Via deze weg stelt het applicatieprofiel de gebruiker in staat om een meetpunt te relateren aan de observatie. Deze meetpunten kunnen op hun beurt geaggregeerd worden tot een meetnet. 
+De objecten waarvan deze kenmerken kunnen worden beschreven zijn Domeinobjecten of Bemonsteringsobjecten en hun subklassen uit Observaties & Metingen en Sensoren & Bemonstering, maar specifiek voor waterkwaliteit werden klassen voorzien zoals Waterobjecten, Emissies en Emissiebronnen. Verder werd Meetpunt als Bemonsteringsobject toegevoegd. Meetpunten kunnen geaggregeerd worden tot Meetnet.
+</p>
+<p>
+Voor het beschrijven van de kwaliteit van de Observaties wordt verwezen naar <a href=” https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/”>OSLO Datakwaliteit</a>, voor statistische Observaties is er <a href=” https://data.vlaanderen.be/doc/applicatieprofiel/statistiek/”>OSLO Statistiek</a>.
 </p>
 <p>
 Enumeraties worden in principe buiten het applicatieprofiel beschreven, de enumeraties die in het diagram weergegeven worden, zijn illustratief. 
