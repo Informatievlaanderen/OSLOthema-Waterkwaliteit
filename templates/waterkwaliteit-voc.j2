@@ -1,10 +1,11 @@
 {% extends "voc2.j2" %}
 
 {% block summary %}
-<p>
-Het vocabularium 'OSLO Waterkwaliteit' is aanvullend op het applicatieprofiel OSLO Waterkwaliteit dat gebaseerd is op de Europese standaarden ODALA Air & Water - Core en ODALA Air & Water - Waterquality. De standaard richt zich op het interoperabel ontsluiten van data en bijbehorende contextuele informatie inzake waterkwaliteit. Het datamodel en het vocabularium werden opgesteld om op een eenduidige manier data te kunnen uitwisselen tussen organisaties die betrokken zijn in de milieuwetgeving rond waterkwaliteit.
-</p>
-<p>
-Daarnaast definieert dit vocabularium enkele eigen termen. Deze zijn te vinden onder Klassen en Eigenschappen, terwijl de gemapte termen opgelijst staan onder Externe Terminologie.
-</p>
+<p>Het vocabularium OSLO Waterkwaliteit is een uitbreiding van het Europees vocabularium <a href=” https://purl.eu/ns/air-and-water/water/”>ODALA Water vocabularium</a>. </p>
+<p>Het Europees vocabularium voorziet terminologie voor het beschrijven van Waterkwaliteit waaraan dit vocabularium dus nog termen toevoegt. </p>
+<p>Belangrijkste toevoegingen zijn bijkomende types observaties, nl ChemischAgensVrachtObservatie en HydromorfologischeIndexObservatie. </p>
+<p>Verder werden behalve het ODALA domeinobject Waterobject nog Emissie en Emissiebron voorzien als potentieel te observeren of te bemonsteren objecten.
+<p>Bemonsteringsobjecten kunnen nu gegroepeerd worden als een Bemonsteringsobjectverzameling van het type Meetnet en kan uit RuimtelijkeBemonsteringsobjecten van het type Meetpunt bestaan. </p>
+<p>Ook van belang is het toevoegen van een klasse Agens om bij observaties van concentratie of vracht van een chemische stof deze stof te kunnen aanduiden los van het geobserveerdKenmerk. Om gelijkaardige reden werd ook de klasse Soort toegevoegd voor BioIndicatorObservaties. </p>
+<p>Tot slot is het ook mogelijk om een Observatie te typeren als StatistischeObservatie.</p>
 {% endblock %}
