@@ -1,19 +1,13 @@
 {% extends "ap2.j2" %}
 
 {% block summary %}
-<p>
-Data worden steeds vaker gedeeld, uitgewisseld en gebruikt voor andere doeleinden dan de dan die waarvoor zij bestemd zijn. Informatie over de kwaliteit van de gegevens is van vitaal belang voor het selectieproces van een gegevensreeks, omdat de waarde van gegevens rechtstreeks verband houdt met de kwaliteit ervan. Een gebruiker van gegevens kan uit verschillende gegevensreeksen kunnen kiezen. Daarom is het nodig de kwaliteit van de gegevensreeksen te vergelijken om te bepalen welke het best aan de eisen van de gebruiker voldoet. Het doel van de beschrijving van de kwaliteit is de vergelijking en selectie te vergemakkelijken van de gegevensset die het best aan de behoeften of eisen van de toepassing voldoet. 
-</p>
-<p>
-Volledige beschrijvingen van de kwaliteit van een gegevensreeks zal het delen, uitwisselen en gebruiken van geschikte gegevensreeksen aanmoedigen. Informatie over de kwaliteit van de gegevens stelt een gegevensproducent in staat te beoordelen hoe goed een gegevensset voldoet aan de criteria die in zijn productspecificatie zijn opgenomen en helpt gebruikers van gegevens bij de beoordeling van de geschiktheid van een product om te voldoen  aan de eisen voor hun specifieke toepassing. Ten behoeve van deze evaluatie worden duidelijk omschreven procedures op een consistente manier worden gebruikt.
-</p>
-<p>
-Om vergelijkingen mogelijk te maken, is het van essentieel belang dat de resultaten van de kwaliteitsrapporten op eenvergelijkbare wijze worden uitgedrukt en dat er een gemeenschappelijk begrip is van de kwaliteitsmaatregelen die zijn gebruikt. Deze kwaliteitsmaatstaven bieden descriptoren voor de kwaliteit van de gegevens door vergelijking met het universum van het discours. Het gebruik van niet-compatibele maatstaven maakt onmogelijk om vergelijkingen te maken. Deze internationale norm standaardiseert de componenten en structuren van maatstaven voor gegevenskwaliteit en definieert algemeen gebruikte maatstaven voor gegevenskwaliteit.
-</p>
-<p>
-Het applicatieprofiel OSLO Datakwaliteit erkent dat een gegevensproducent en een gegevensgebruiker de kwaliteit van gegevens vanuit verschillende perspectieven kunnen bekijken. Conformiteitskwaliteitsniveaus kunnen worden vastgesteld aan de hand van de productspecificatie van de gegevensproducent product van de gegevensproducent of op basis van de eisen inzake gegevenskwaliteit van een gebruiker van de gegevens. Indien de gegevensgebruiker meer informatie over de gegevenskwaliteit wenst dan die welke door de gegevensproducent wordt verstrekt, kan de gegevensgebruiker de processtroom voor de evaluatie van de gegevenskwaliteit van de gegevensproducent volgen om de aanvullende informatie te verkrijgen.
-</p>
-<p>
-Het doel van dit applicatieprofiel is beginselen aan te reiken voor de beschrijving van de kwaliteit van gegevens en concepten voor het verwerken van kwaliteitsinformatie, en een consistente en standaardmanier om de kwaliteitsinformatie van een gegevensset te bepalen en te rapporteren. Het beoogt tevens te voorzien in richtlijnen te geven voor evaluatieprocedures van kwantitatieve kwaliteitsinformatie.
-</p>
+<p>Dit applicatieprofiel laat toe de kwaliteit van data te beschrijven, ttz de mate waarin data potentieel geschikt is voor een bepaald gebruik. </p>
+<p>Het applicatieprofiel is gebaseerd op <a href=” https://www.iso.org/standard/32575.html”>ISO19157:2013</a> voor het beschrijven van datakwaliteit.</p>
+<p>ISO19157 is bedoeld voor geografische data, maar stemt overeen met wat <a href=” https://www.iso.org/standard/35736.html”>ISO:25012</a> (standaard voor het beschrijven van de datakwaliteit van softwareproducten) verstaat onder “systeemonafhankelijke datakwaliteit”. </p>
+<p>We weerhielden uit ISO1957 enkel wat noodzakelijk is om aspecten van kwaliteit te beschrijven op het kleinste granulair niveau, bvb wel de positionele nauwkeurigheid van een locatie maar niet van de geografische dataset als geheel. </p>
+<p>Aspecten zoals doel, gebruik en herkomst van data vallen onder metadata en worden hier niet beschouwd. </p>
+<p>Het profiel draait rond de klasse Kwaliteitselement waarvan de instanties één bepaald kwaliteitsaspect beschrijven dmv een bepaalde maat verkregen volgens een bepaalde methode. </p>
+<p>De aspecten worden ingedeeld als subklassen van Kwaliteitselement en omvatten zaken als nauwkeurigheid, volledigheid en consistentie. Voor subklassen daarvan verwijzen we naar ISO1957 en de overeenkomstige uri’s in <a href=” https://def.isotc211.org/ontologies/iso19157/2013/DataQuality_2.rdf”>isotc211:DataQuality</a>.</p>
+<p>Een individueel kwaliteitsaspect wordt beschouwd als een observatie met een kwantitatief resultaat of een conformiteitsverklaring of een kwaliteitsbeschrijving. </p>
+<p>Daarbij kan de methode worden vermeld die tot dat resultaat heeft geleid en een referentie naar de gebruikte maat om de kwaliteit uit te drukken. </p>
 {% endblock %}
