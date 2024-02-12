@@ -1,10 +1,9 @@
 {% extends "ap2.j2" %}
 
 {% block summary %}
+<p>Het applicatieprofiel toont hoe de termen uit het OSLO vocabularium Datakwaliteit (dat gebaseerd is op <a href=” https://www.iso.org/standard/32575.html”>ISO19157:2013</a>) gebruikt moeten worden voor het beschrijven van datakwaliteit.</p>
 <p>Dit applicatieprofiel laat toe de kwaliteit van data te beschrijven, ttz de mate waarin data potentieel geschikt is voor een bepaald gebruik. </p>
-<p>Het applicatieprofiel is gebaseerd op <a href=” https://www.iso.org/standard/32575.html”>ISO19157:2013</a> voor het beschrijven van datakwaliteit.</p>
-<p>ISO19157 is bedoeld voor geografische data, maar stemt overeen met wat <a href=” https://www.iso.org/standard/35736.html”>ISO:25012</a> (standaard voor het beschrijven van de datakwaliteit van softwareproducten) verstaat onder “systeemonafhankelijke datakwaliteit”. </p>
-<p>We weerhielden uit ISO1957 enkel wat noodzakelijk is om aspecten van kwaliteit te beschrijven op het kleinste granulair niveau, bvb wel de positionele nauwkeurigheid van een locatie maar niet die van een volledige geografische dataset. </p>
+<p>We weerhielden enkel wat noodzakelijk is om aspecten van kwaliteit te beschrijven op het kleinste granulair niveau, bvb wel de positionele nauwkeurigheid van een locatie maar niet die van een volledige geografische dataset. </p>
 <p>Aspecten zoals doel, gebruik en herkomst van data vallen onder metadata en worden hier niet beschouwd. </p>
 <p>Het profiel draait rond de klasse Kwaliteitselement waarvan de instanties één bepaald kwaliteitsaspect beschrijven dmv een bepaalde maat verkregen volgens een bepaalde methode. </p>
 <p>De aspecten worden ingedeeld als subklassen van Kwaliteitselement en omvatten zaken als nauwkeurigheid, volledigheid en consistentie. Voor subklassen daarvan verwijzen we naar ISO1957 en de overeenkomstige uri’s in <a href=” https://def.isotc211.org/ontologies/iso19157/2013/DataQuality_2.rdf”>isotc211:DataQuality</a>.</p>
