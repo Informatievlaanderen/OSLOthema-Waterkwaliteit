@@ -12,3 +12,5 @@ Het traject OSLO Waterkwaliteit heeft geleid tot:
 - Het [vocabularium OSLO Waterkwaliteit](https://data.vlaanderen.be/ns/waterkwaliteit/).
 - Het [vocabularium OSLO Datakwaliteit](https://data.vlaanderen.be/ns/datakwaliteit/).
 - Het [vocabularium OSLO Statistiek](https://data.vlaanderen.be/ns/statistiek/).
+
+Zie ook de [map met datavoorbeelden](https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/tree/master/resources/datavoorbeelden).
