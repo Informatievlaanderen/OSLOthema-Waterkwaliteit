@@ -1,11 +1,9 @@
 {% extends "voc2.j2" %}
 
 {% block summary %}
-<p>
-De meeste gegevens bevatten onzekerheid, die voortkomt uit bronnen zoals meetfouten, fouten van de waarnemer, verwerkings- of modelleringsfouten, of corruptie. De verwerking van deze onzekere gegevens (meestal via modellen, die hun eigen fouten kunnen introduceren) leidt tot een - vaak onvoorspelbare - toename van de onzekerheid. Om gegevens optimaal te kunnen gebruiken is een zo volledig en gedetailleerd mogelijke beschrijving van de onzekerheid ervan vereist, en in de geospatiale context is deze karakterisering en kwantificering bijzonder cruciaal wanneer gegevens worden gebruikt voor ruimtelijke besluitvorming. Er is dus een algemeen erkende behoefte aan GIS-kaders die kunnen omgaan met en onvolledige kennis in de gegevensinvoer, in de beslisregels en in de gemodelleerde geometrieën en attributen. Er bestaat een aanzienlijke literatuur over mechanismen voor het weergeven en en codering van geospatiale onzekerheid en de voortplanting ervan. Er bestaat echter nog geen kader om onzekerheid (in GI-gegevens of meer in het algemeen) op een interoperabele manier te beschrijven en te communiceren.
-manier te beschrijven en te communiceren. 
-</p>
-<p>
-Dezelfde nood om onzekerheden op een gestandaardiseerde manier te kunnen beschrijven a.d.h.v. statistieken werd geïdentificeerd bij het maken van observaties. Het is vanuit deze nood dat vocabularium OSLO Statistiek werd opgesteld aanvullend op het applicatieprofiel. Binnen het vocabularium worden verschillende statistische begrippen beschreven zoals een kwantiel, een moment (centraal en niet-centraal) en (discrete)probabiliteiten. 
-</p>
+<p>Het vocabularium OSLO Statistiek bevat termen waarmee StatistischeObservaties kunnen worden beschreven, ttz Observaties die een Statistiek als resultaat hebben. </p>
+<p>De klasse Statistiek baseerden we op het UNCERT model. </p>
+<p>Onder Statistiek verstaan we cijfers die de kenmerken van een collectie gegevens beschrijven. </p>
+<p>Het kan zowel gaan over samenvattende maten zoals het gemiddelde, de mediaan, een totaal of een index of over maten die iets zeggen over de spreiding van de gegevens zoals het minimum of maximum, de standaarddeviatie etc. of over de kans dat een waarde voorkomt of overschreden wordt. </p>
+<p>Enkele subklassen zijn voorzien voor het geval extra info nodig is om de Statistiek te beschrijven, bvb als deze betrekking heeft op een Kwantiel, een Moment of een Discrete- of gewone Probabiliteit. </p>
 {% endblock %}
