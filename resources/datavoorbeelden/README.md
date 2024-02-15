@@ -1,2 +1,2 @@
 # Datavoorbeelden
-## Datavoorbeelden VMM
+## VMM
