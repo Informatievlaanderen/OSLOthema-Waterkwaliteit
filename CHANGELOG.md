@@ -9,7 +9,7 @@ Aanpassingen AP-Waterkwaliteit [versie 2023-06-01](https://data.vlaanderen.be/do
 - Herbruikte klassen/datatypes van OSLO-ObservatiesEnMetingen en OSLO-SensorenEnBemonstering synchroon gezet qua definities edm met de laatste versies.
 - [Issue28](https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/issues/28): Redefines herzien: Niet uitgevoerd omdat grootste deel van een andere standaard komt nl van ODALA AirAndWater.
 - [Issue27](https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/issues/27): Hernoemen https://data.vlaanderen.be/ns/waterkwaliteit#ChemischAgensConcentratieObservatie.agens: TODO?.
-- Issue26: Any hermappen naar rdfs:Resource: DONE.
+- Issue26: Any mappen op rdfs:Resource ipv op iso:Any.: Issue Bert aangemaakt & beantwoord in de comments, uri aangepast & rerun specs.
 - Issue25: DQ_Element: Was al opgelost in nieuwere versie, comment toegevoegd.
 - Issue24: Property bioIndicator: Verkeerde uiri's toegekend, verbeterd & rerun specs, comment toegevoegd.
 - Issue23: Dereferencing is niet mogelijk voor gebruikte klassen en properties - open standaarden? Foute uri's opgelost & rerun specs, antwoord voor de iso tc211 uri's, icomment toegevoegd.
@@ -32,5 +32,4 @@ Aanpassingen AP-Waterkwaliteit [versie 2023-06-01](https://data.vlaanderen.be/do
 - Issue04: Is het echt de bedoeling dat er bij een BenoemdeWaarde, als range van de property waarde, exact 1 instance van een Any klasse zit?: Beantwoord in de comments.
 - Issue03: ChemischAgensType lijkt me niet gedefinieerd: Beantwoord in de comments.
 - Issue02: Datakwaliteit: ISO 1957 vs W3C DQLV: Voor een volgende versie, beantwoord in de comments.
-- Issue26: Any mappen op rdfs:Resource ipv op iso:Any.: Issue Bert aangemaakt & beantwoord in de comments, uri aangepast & rerun specs.
 
