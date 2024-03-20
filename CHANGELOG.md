@@ -1,4 +1,4 @@
-2023-06--01 AP-Waterkwaliteit
+2023-06-01 AP-Waterkwaliteit
 - Samenvatting herschreven, links toegevoegd (bvb naar ODALA, vocabularium etc).
 - Klassen die naar OSLO-Datakwaliteit verwijzen hernoemd (zie changelog OSLO-Datakwaliteit), bvb Kwaliteitselement ipv DQ_Element.
 - Analoog voor TemporeleEntiteit en subklassen.
