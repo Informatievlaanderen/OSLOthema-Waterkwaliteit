@@ -1,4 +1,5 @@
-Aanpassingen AP-Waterkwaliteit [versie 2023-06-01](https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit/kandidaatstandaard/2022-10-17/)
+### Aanpassingen AP-Waterkwaliteit [versie 2023-06-01](https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit/kandidaatstandaard/2022-10-17/):
+
 - Samenvatting herschreven, links toegevoegd (bvb naar ODALA, vocabularium etc).
 - Klassen die naar OSLO-Datakwaliteit verwijzen hernoemd (zie changelog OSLO-Datakwaliteit hieronder), bvb Kwaliteitselement ipv DQ_Element.
 - Analoog voor TemporeleEntiteit en subklassen.
@@ -33,3 +34,6 @@ Aanpassingen AP-Waterkwaliteit [versie 2023-06-01](https://data.vlaanderen.be/do
 - [Issue03](): ChemischAgensType lijkt me niet gedefinieerd: Beantwoord in de comments.
 - [Issue02](): Datakwaliteit: ISO 1957 vs W3C DQLV: Voor een volgende versie, beantwoord in de comments.
 
+### Aanpassingen VOC-Waterkwaliteit [versie 2023-06-01](https://data.vlaanderen.be/doc/vocabularium/waterkwaliteit/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/vocabularium/waterkwaliteit/kandidaatstandaard/2022-10-17/):
+
+- ()
