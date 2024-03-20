@@ -59,10 +59,13 @@
 
 ### Aanpassingen AP-Datakwaliteit [versie 2023-06-01](https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/kandidaatstandaard/2022-10-17/):
 
-- ()
+- Samenvatting herschreven, links toegevoegd (bvb naar ISO en vocabularium).
+- Prefixen DQ edm verwijderd uit klassenamen.
+- Meeste definities herschreven & waar nodig gebruiksnota's toegevoegd.
+- Klasse "ThematischeNauwkeurigheid" ipv "thematischeAccuraatheid". Idem voor "positioneleNauwkeurigheid".
+- Verwijzingen naar andere AP's of standaarden toegevoegd voor by-reference klassen, bvb voor Maateenheid een verwijzing naar ISO, ucum en qudt.
 
 ### Aanpassingen VOC-Datakwaliteit [versie 2023-06-01](https://data.vlaanderen.be/doc/vocabularium/datakwaliteit/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/vocabularium/datakwaliteit/kandidaatstandaard/2022-10-17/):
 
 - Samenvatting herschreven, links toegevoegd (bvb naar de gebruikte ISO-standaarden).
-- Prefixen DQ edm verwijderd uit klassenamen.
 - Gebruiksnota's verwijderd bij externe termen.
