@@ -1,6 +1,6 @@
 Aanpassingen AP-Waterkwaliteit [versie 2023-06-01](https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit/kandidaatstandaard/2022-10-17/)
 - Samenvatting herschreven, links toegevoegd (bvb naar ODALA, vocabularium etc).
-- Klassen die naar OSLO-Datakwaliteit verwijzen hernoemd (zie changelog OSLO-Datakwaliteit), bvb Kwaliteitselement ipv DQ_Element.
+- Klassen die naar OSLO-Datakwaliteit verwijzen hernoemd (zie changelog OSLO-Datakwaliteit hieronder), bvb Kwaliteitselement ipv DQ_Element.
 - Analoog voor TemporeleEntiteit en subklassen.
 - Ontbrekende (super)klassen en datatypes toegevoegd, bvb Observatieverzameling, PositioneleNauwkeurigheid, Geometrie etc.
 - Verwijzingen naar andere AP's toegevoegd voor by-reference klassen, bvb voor Agent een verwijzing naar OSLO-Persoon/organisatie.
