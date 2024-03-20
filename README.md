@@ -7,7 +7,7 @@ Het is de Vlaamse voortzetting van het Europees [traject ODALA Air en Water](htt
 Het traject OSLO Waterkwaliteit heeft geleid tot:
 
 - Hat [applicatieprofiel OSLO Waterkwaliteit](https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit).
-- Het [applicatieprofiel OSLO Datakwaliteit](https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit/).
+- Het [applicatieprofiel OSLO Datakwaliteit](https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/).
 - Het [applicatieprofiel OSLO Statistiek](https://data.vlaanderen.be/doc/applicatieprofiel/statistiek/).
 - Het [vocabularium OSLO Waterkwaliteit](https://data.vlaanderen.be/ns/waterkwaliteit/).
 - Het [vocabularium OSLO Datakwaliteit](https://data.vlaanderen.be/ns/datakwaliteit/).
