@@ -39,11 +39,11 @@
 - Samenvatting herschreven, links toegevoegd (bvb naar ODALA, vocabularium etc).
 - Uri's gedisambigueerd, bvb Waterkwaliteit:HydromorfologischeIndexObservatie.geobserveerdKenmerk en Waterkwaliteit:ChemiscxhAgensVrachtobservatie.geobserveerdKenmerk ipv Waterkwaliteit.geobserveerdKenmerk.
 
-### Aanpassingen AP-Statistiek [versie 2023-06-01](https://data.vlaanderen.be/doc/applicatieprofiel/statistiek/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/kandidaatstandaard/2022-10-17/):
+### Aanpassingen AP-Statistiek [versie 2023-06-01](https://data.vlaanderen.be/doc/applicatieprofiel/statistiek/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/applicatieprofiel/statistiek/kandidaatstandaard/2022-10-17/):
 
 - ()
 
-### Aanpassingen VOC-Datakwaliteit [versie 2023-06-01](https://data.vlaanderen.be/doc/vocabularium/statistiek/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/vocabularium/datakwaliteit/kandidaatstandaard/2022-10-17/):
+### Aanpassingen VOC-Statistiek [versie 2023-06-01](https://data.vlaanderen.be/doc/vocabularium/statistiek/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/vocabularium/statistiek/kandidaatstandaard/2022-10-17/):
 
 - ()
 
