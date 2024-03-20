@@ -41,7 +41,14 @@
 
 ### Aanpassingen AP-Statistiek [versie 2023-06-01](https://data.vlaanderen.be/doc/applicatieprofiel/statistiek/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/applicatieprofiel/statistiek/kandidaatstandaard/2022-10-17/):
 
-- ()
+- Samenvatting herschreven, links toegevoegd (bvb naar UNCERT, vocabularium etc).
+- Ontbrekende klassen/datatypen toegevoegd.
+- Subklassen van Moment verwijded.
+- Redfined attribuut "waarde" verwijderd bij (Discrete)Probaliteit.
+- Ontbrekende (super)klassen en datatypes aan model toegevoegd.
+- Meeste definities herschreven & waar nodig gebruiksnota's toegevoegd.
+- Attribuut Probabiliteit.operator verwijderd.
+- Datatype "Waarde" is nu "Any".
 
 ### Aanpassingen VOC-Statistiek [versie 2023-06-01](https://data.vlaanderen.be/doc/vocabularium/statistiek/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/vocabularium/statistiek/kandidaatstandaard/2022-10-17/):
 
