@@ -43,7 +43,7 @@
 
 - ()
 
-### Aanpassingen VOC-Datakwaliteit [versie 2023-06-01](https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit/kandidaatstandaard/2022-10-17/):
+### Aanpassingen VOC-Datakwaliteit [versie 2023-06-01](https://data.vlaanderen.be/doc/vocabularium/datakwaliteit/kandidaatstandaard/2023-06-01/) tov [versie 2022-10-17](https://data.vlaanderen.be/doc/vocabularium/datakwaliteit/kandidaatstandaard/2022-10-17/):
 
 - Samenvatting herschreven, links toegevoegd (bvb naar de gebruikte ISO-standaarden).
 - Prefixen DQ edm verwijderd uit klassenamen.
