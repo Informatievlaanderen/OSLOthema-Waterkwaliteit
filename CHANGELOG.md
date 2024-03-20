@@ -7,6 +7,6 @@ Aanpassingen AP-Waterkwaliteit [versie 2023-06-01](https://data.vlaanderen.be/do
 - Discrepanties tussen html en diagram weggewerkt, bvb ontbrekende attributen van Bemonsteringsobject.
 - Definities & gebruiksnota's klassen/datatypes van alle gespecialiseerde klassen toegevoegd en/of verbeterd, bvb van BiotischeIndexObservatie, ChemischAgensCocentratieObservatie, ChemischAgensVrachtObservatie, HydromorfologischeIndexObservatie etc.
 - Herbruikte klassen/datatypes van OSLO-ObservatiesEnMetingen en OSLO-SensorenEnBemonstering synchroon gezet qua definities edm met de laatste versies.
-- Issue 28: Redefines herzien: Niet uitgevoerd omdat grootste deel van een andere standaard komt nl van ODALA AirAndWater.
-- Issue 27: TODO.
+- [Issue 28](https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/issues/28): Redefines herzien: Niet uitgevoerd omdat grootste deel van een andere standaard komt nl van ODALA AirAndWater.
+- [Issue 27](https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/issues/27): TODO.
 
