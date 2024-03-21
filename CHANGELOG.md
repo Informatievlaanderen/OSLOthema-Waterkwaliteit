@@ -9,7 +9,7 @@
 - Definities & gebruiksnota's klassen/datatypes van alle gespecialiseerde klassen toegevoegd en/of verbeterd, bvb van BiotischeIndexObservatie, ChemischAgensCocentratieObservatie, ChemischAgensVrachtObservatie, HydromorfologischeIndexObservatie etc.
 - Herbruikte klassen/datatypes van OSLO-ObservatiesEnMetingen en OSLO-SensorenEnBemonstering synchroon gezet qua definities edm met de laatste versies.
 - [Issue28](https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/issues/28): Redefines herzien: Niet uitgevoerd omdat grootste deel van een andere standaard komt nl van ODALA AirAndWater.
-- [Issue27](https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/issues/27): Hernoemen https://data.vlaanderen.be/ns/waterkwaliteit#ChemischAgensConcentratieObservatie.agens: TODO?.
+- [Issue27](https://github.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/issues/27): Hernoemen https://data.vlaanderen.be/ns/waterkwaliteit#ChemischAgensConcentratieObservatie.agens: Beantwoord in de comments.
 - [Issue26](): Any mappen op rdfs:Resource ipv op iso:Any.: Issue Bert aangemaakt & beantwoord in de comments, uri aangepast & rerun specs.
 - [Issue25](): DQ_Element: Was al opgelost in nieuwere versie, comment toegevoegd.
 - [Issue24](): Property bioIndicator: Verkeerde uiri's toegekend, verbeterd & rerun specs, comment toegevoegd.
