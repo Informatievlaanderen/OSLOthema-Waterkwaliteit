@@ -1,0 +1,25 @@
+{
+  "naam": "Applicatieprofiel OSLO Statistiek",
+  "rapport": "",
+  "verantwoordelijke_organisatie": "Vlaamse Milieumaatschappij (VMM)",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000092",
+  "publicatiedatum": "17 oktober 2022",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
+  "categorie": "Applicatieprofiel",
+  "beschrijving": "ap-statistiek.md",
+  "specificatiedocument": [
+    {
+      "naam": "Applicatieprofiel Statistiek",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/statistiek"
+    }
+  ],
+  "documentatie": [],
+  "charter": [],
+  "verslagen": [],
+  "presentaties": [],
+  "functioneel_toepassingsgebied": "TBD",
+  "organisatorisch_werkingsgebied": "TBD",
+  "datum_van_aanmelding": "TBD",
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
+}

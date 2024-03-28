@@ -1,0 +1,72 @@
+{
+  "naam": "Applicatieprofiel OSLO Waterkwaliteit",
+  "rapport": "",
+  "verantwoordelijke_organisatie": "Vlaamse Milieumaatschappij (VMM)",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000092",
+  "publicatiedatum": "17 oktober 2022",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
+  "categorie": "Applicatieprofiel",
+  "beschrijving": "ap-waterkwaliteit.md",
+  "specificatiedocument": [
+    {
+      "naam": "Applicatieprofiel Waterkwaliteit",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit"
+    }
+  ],
+  "documentatie": [
+    {
+      "naam": "OSLO Omgeving - codelijsten - Technische documentatie",
+      "waarde": "OSLO Omgeving - codelijsten - Technische documentatie.pdf"
+    }
+  ],
+  "charter": [],
+  "verslagen": [
+    {
+      "naam": "Verslag Business werkgroep - 9 november 2021",
+      "waarde": "Verslag Business werkgroep - 9 november 2021.docx"
+    },
+    {
+      "naam": "Verslag thematische werkgroep 1 - 9 december 2021",
+      "waarde": "Verslag Thematische werkgroep 1 - 9 november 2021.docx"
+    },
+    {
+      "naam": "Verslag thematische werkgroep 2 - 1 februari 2022",
+      "waarde": "Verslag thematische werkgroep 2 - 1 februari 2022.docx"
+    },
+    {
+      "naam": "OSLO Omgeving codelijsten - Verslag thematische werkgroep 1 - 22 juni 2022",
+      "waarde": "OSLO Omgeving codelijsten - Verslag thematische werkgroep 1 - 22 juni 2022.docx"
+    },
+    {
+      "naam": "OSLO Omgeving codelijsten - Verslag thematische werkgroep 2 - 14 juli 2022",
+      "waarde": "OSLO Omgeving codelijsten - Verslag thematische werkgroep 2 - 14 juli 2022.docx"
+    }
+  ],
+  "presentaties": [
+    {
+      "naam": "Presentatie Business werkgroep  - 9 november 2021",
+      "waarde": "Presentatie Business werkgroep - 9 november 2021.pdf"
+    },
+    {
+      "naam": "Presentatie Thematische werkgroep 1 - 9 december 2021",
+      "waarde": "Presentatie Thematische werkgroep 1 - 9 december 2021.pdf"
+    },
+    {
+      "naam": "Presentatie thematische werkgroep 2 - 1 februari 2022",
+      "waarde": "Presentatie thematische werkgroep 2 - 1 februari 2022.pdf"
+    },
+    {
+      "naam": "OSLO Omgeving codelijsten - Presentatie thematische werkgroep 1 - 22 juni 2022",
+      "waarde": "OSLO Omgeving codelijsten-Presentatie Thematische werkgroep 1 - 22 juni 2022.pdf"
+    },
+    {
+      "naam": "OSLO Omgeving codelijsten - Presentatie thematische werkgroep 2 - 14 juli 2022",
+      "waarde": "OSLO Omgeving codelijsten-Presentatie Thematische werkgroep 2 - 14 juli 2022.pdf"
+    }
+  ],
+  "functioneel_toepassingsgebied": "Semantische standaard voor waterkwaliteit",
+  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+  "datum_van_aanmelding": "17 oktober 2022",
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "TBD"
+}

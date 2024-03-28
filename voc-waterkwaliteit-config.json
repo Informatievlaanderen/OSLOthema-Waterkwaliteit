@@ -1,36 +1,16 @@
 {
-    "naam": "Vocabularium en applicatieprofiel OSLO Waterkwaliteit",
+    "naam": "Vocabularium OSLO Waterkwaliteit",
     "rapport": "",
     "verantwoordelijke_organisatie": "Vlaamse Milieumaatschappij (VMM)",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000092",
     "publicatiedatum": "17 oktober 2022",
     "type_toepassing": "Aanbevolen (vrijwillig)",
-    "categorie": "Vocabularium en applicatieprofielen",
-    "beschrijving": "ap-or-voc-waterkwaliteit.md",
+    "categorie": "Vocabularium",
+    "beschrijving": "voc-waterkwaliteit.md",
     "specificatiedocument": [
-        {
-            "naam": "Applicatieprofiel Waterkwaliteit",
-            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/waterkwaliteit"
-        },
-        {
-            "naam": "Applicatieprofiel Statistiek",
-            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/statistiek"
-        },
-        {
-            "naam": "Applicatieprofiel Datakwaliteit",
-            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit"
-        },
         {
             "naam": "Vocabularium Waterkwaliteit",
             "waarde": "https://data.vlaanderen.be/ns/waterkwaliteit"
-        },
-        {
-            "naam": "Vocabularium Statistiek",
-            "waarde": "https://data.vlaanderen.be/ns/statistiek"
-        },
-        {
-            "naam": "Vocabularium Datakwaliteit",
-            "waarde": "https://data.vlaanderen.be/ns/datakwaliteit"
         }
     ],
     "documentatie": [
