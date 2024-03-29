@@ -1,1 +1,1 @@
-Provide a description for VOC statistiek
+Het beheer van statistische gegevens is een belangrijk aspect binnen het OSLO Waterkwaliteit-traject, OSLO Statistiek is daarom vanuit de nood die ontstond uit OSLO Waterkwaliteit ontwikkeld om statistische observaties te beschrijven. Hiermee kunnen gemiddelden, medianen, kwantielen en andere statistische metingen worden weergegeven, zonder dat alle individuele observaties hoeven te worden vermeld die hebben bijgedragen aan deze statistieken. 
