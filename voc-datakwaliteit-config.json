@@ -3,7 +3,7 @@
   "rapport": "",
   "verantwoordelijke_organisatie": "Vlaamse Milieumaatschappij (VMM)",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000092",
-  "publicatiedatum": "17 oktober 2022",
+  "publicatiedatum": "1 juni 2023",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium",
   "beschrijving": "voc-datakwaliteit.md",
@@ -13,13 +13,33 @@
       "waarde": "https://data.vlaanderen.be/ns/datakwaliteit"
     }
   ],
-  "documentatie": [],
-  "charter": [],
-  "verslagen": [],
-  "presentaties": [],
-  "functioneel_toepassingsgebied": "TBD",
-  "organisatorisch_werkingsgebied": "TBD",
-  "datum_van_aanmelding": "TBD",
+  "documentatie":  [
+    {
+      "naam": "Zie OSLO Waterkwaliteit",
+      "waarde": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html"
+    }
+  ],
+  "charter": [
+    {
+      "naam": "Zie OSLO Waterkwaliteit",
+      "waarde": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html"
+    }
+  ],
+  "verslagen": [
+    {
+      "naam": "Zie OSLO Waterkwaliteit",
+      "waarde": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html"
+    }
+  ],
+  "presentaties": [
+    {
+      "naam": "Zie OSLO Waterkwaliteit",
+      "waarde": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html"
+    }
+  ],
+  "functioneel_toepassingsgebied": "Semantische standaard voor datakwaliteit",
+  "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
+  "datum_van_aanmelding": "17 oktober 2022",
   "erkenning_werkgroep_datastandaarden": "TBD",
   "erkenning_stuurgroep": "TBD"
 }
