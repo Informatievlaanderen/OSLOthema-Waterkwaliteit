@@ -1,1 +1,1 @@
-Provide a description for VOC waterkwaliteit
+Dit project tracht om de structuur van waterkwaliteit te standaardiseren in samenspraak met alle belanghebbenden. Dit traject is gestart vanuit ODALA Air & Water waarbij het aspect omtrent water quality in een nederlandstalige standaard werd gegoten tijdens dit traject. Dit zal het binnen Vlaanderen mogelijk maken om datastromen semantisch te verrijken, wat data omtrent de waterkwaliteit beter vindbaar en begrijpbaar zal maken, alsook beter combineerbaar met andere databronnen.
