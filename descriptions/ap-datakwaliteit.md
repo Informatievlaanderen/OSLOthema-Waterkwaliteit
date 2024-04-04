@@ -1,1 +1,1 @@
-Provide a description for AP datakwaliteit
+De kwaliteit van data is een belangrijk aspect binnen het OSLO Waterkwaliteit-traject. OSLO Datakwaliteit is daarom vanuit de nood die ontstond uit OSLO Waterkwaliteit ontwikkeld om de kwaliteit van data te beschrijven en diens potentieel te verduidelijken voor een bepaald gebruik. De scope werd echter behouden tot het noodzakelijke omtrent de aspecten van de kwaliteit.
