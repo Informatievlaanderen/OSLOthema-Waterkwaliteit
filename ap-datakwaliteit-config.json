@@ -13,10 +13,10 @@
       "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit"
     }
   ],
-  "documentatie": [<a href="https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html">Zie OSLO Waterkwaliteit</a>],
+  "documentatie": <a href="https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html">Zie OSLO Waterkwaliteit</a>,
   "charter": [],
-  "verslagen": [<a href="https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html">Zie OSLO Waterkwaliteit</a>],
-  "presentaties": [<a href="https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html">Zie OSLO Waterkwaliteit</a>],
+  "verslagen": <a href="https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html">Zie OSLO Waterkwaliteit</a>,
+  "presentaties": <a href="https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html">Zie OSLO Waterkwaliteit</a>,
   "functioneel_toepassingsgebied": "Semantische standaard voor datakwaliteit",
   "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
   "datum_van_aanmelding": "17 oktober 2022",
