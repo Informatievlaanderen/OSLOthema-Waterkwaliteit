@@ -1,40 +1,47 @@
 {
-  "naam": "Applicatieprofiel OSLO Datakwaliteit",
-  "rapport": "",
-  "verantwoordelijke_organisatie": "Vlaamse Milieumaatschappij (VMM)",
-  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000092",
-  "publicatiedatum": "2023-06-01",
-  "type_toepassing": "Aanbevolen (vrijwillig)",
-  "categorie": "Applicatieprofiel",
-  "beschrijving": "ap-datakwaliteit.md",
-  "specificatiedocument": [
+  "title": "Applicatieprofiel OSLO Datakwaliteit",
+  "category": "Applicatieprofiel",
+  "usage": "Aanbevolen (vrijwillig)",
+  "status": "kandidaat-standaard",
+  "descriptionFileName": "ap-datakwaliteit.md",
+  "responsibleOrganisation": [
     {
-      "naam": "Applicatieprofiel Datakwaliteit",
-      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit"
+      "name": "Vlaamse Milieumaatschappij (VMM)",
+      "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO000092"
     }
   ],
-  "documentatie":  [
+  "publicationDate": "2023-06-01",
+  "specificationDocuments": [
     {
-      "naam": "Zie OSLO Waterkwaliteit",
-      "waarde": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html"
+      "name": "Applicatieprofiel Datakwaliteit",
+      "resourceReference": "https://data.vlaanderen.be/doc/applicatieprofiel/datakwaliteit"
     }
   ],
-  "charter": [],
-  "verslagen": [
+  "documentation": [
     {
-      "naam": "Zie OSLO Waterkwaliteit",
-      "waarde": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html"
+      "name": "Zie OSLO Waterkwaliteit",
+      "resourceReference": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html"
     }
   ],
-  "presentaties": [
+  "reports": [
     {
-      "naam": "Zie OSLO Waterkwaliteit",
-      "waarde": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html"
+      "name": "Zie OSLO Waterkwaliteit",
+      "resourceReference": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html"
     }
   ],
-  "functioneel_toepassingsgebied": "Semantische standaard voor datakwaliteit",
-  "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse overheid",
-  "datum_van_aanmelding": "17 oktober 2022",
-  "erkenning_werkgroep_datastandaarden": "TBD",
-  "erkenning_stuurgroep": "TBD"
+  "charter": {
+    "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-Waterkwaliteit/standaardenregister/charter/"
+  },
+  "presentations": [
+    {
+      "name": "Zie OSLO Waterkwaliteit",
+      "resourceReference": "https://data.vlaanderen.be/standaarden/kandidaat-standaard/applicatieprofiel-oslo-waterkwaliteit.html"
+    }
+  ],
+  "dateOfRegistration": "17 oktober 2022",
+  "dateOfAcknowledgementByWorkingGroup": "TBD",
+  "dateOfAcknowledgementBySteeringCommittee": "TBD",
+  "repository": "OSLOthema-Waterkwaliteit",
+  "datePublicReviewStart": "",
+  "endOfPublicationDate": ""
 }
