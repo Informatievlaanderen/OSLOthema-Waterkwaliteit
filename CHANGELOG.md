@@ -69,3 +69,7 @@
 
 - Samenvatting herschreven, links toegevoegd (bvb naar de gebruikte ISO-standaarden).
 - Gebruiksnota's verwijderd bij externe termen.
+
+## toolchain 4 rollout
+2025-03-18
+   - gebruik nieuwe basistemplate
