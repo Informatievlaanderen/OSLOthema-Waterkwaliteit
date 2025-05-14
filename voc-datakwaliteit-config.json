@@ -2,7 +2,7 @@
   "title": "Vocabularium OSLO Datakwaliteit",
   "category": "Vocabularium",
   "usage": "Aanbevolen (vrijwillig)",
-  "status": "kandidaat-standaard",
+  "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "descriptionFileName": "voc-datakwaliteit.md",
   "responsibleOrganisation": [
     {
