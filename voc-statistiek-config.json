@@ -1,7 +1,7 @@
 {
   "title": "Vocabularium OSLO Statistiek",
   "category": "Vocabularium",
-  "usage": "Aanbevolen (vrijwillig)",
+  "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "descriptionFileName": "voc-statistiek.md",
   "responsibleOrganisation": [
